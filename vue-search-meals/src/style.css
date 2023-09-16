@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#one{
+    background-image: url(./assets/greekFood.jpg);
+    background-size: cover;
+}
+#two{
+    background-image: url(./assets/culinaryBook.webp);
+    background-size: cover;
+}
+#three{
+    background-image: url(./assets/ingredients.jpg);
+    background-size: cover;
+}
